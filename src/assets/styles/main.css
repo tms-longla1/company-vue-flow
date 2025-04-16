@@ -5,22 +5,3 @@
 body {
   font-family: 'Noto Sans JP', sans-serif;
 }
-
-.anticon {
-  display: inline-flex;
-}
-
-.slide-fade-enter-active,
-.slide-fade-leave-active {
-  transition: all 0.3s ease;
-}
-
-.slide-fade-enter-from,
-.slide-fade-leave-to {
-  transform: translateY(-100%);
-}
-
-.slide-fade-enter-to,
-.slide-fade-leave-from {
-  transform: translateY(0);
-}
